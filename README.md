@@ -15,5 +15,9 @@ Link: _https://github.com/manasohara1/IPL-1st-Innings-Score-Predictor-using-regr
 
 • A glimpse of the web app:
 
- ![WEBM](readme_resources/ipl.webm)
  
+ 
+
+
+https://user-images.githubusercontent.com/95495698/147378460-a8546f92-ac20-465a-8ab9-65aa3f45bd9b.mp4
+
